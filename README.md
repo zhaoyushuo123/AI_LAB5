@@ -1,5 +1,9 @@
 # AI_LAB5
 
+链接：https://pan.baidu.com/s/1pCSW0ofATb35kR-_87ZhRQ 
+提取码：y87f 
+--来自百度网盘超级会员V5的分享
+
 运行方式很简单，
 - pycharm打开项目，运行requirements.txt.
 - 先执行data_cut.py处理数据集，处理的数据会自动保存在new_data下。
